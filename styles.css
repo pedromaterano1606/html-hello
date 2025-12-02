@@ -1,0 +1,15 @@
+body {
+    background-color: #f4f4f4;
+}
+
+.card {
+    border-radius: 6px;
+}
+
+input, select, textarea {
+    border-radius: 5px !important;
+}
+
+.alert {
+    font-size: 1rem;
+}
